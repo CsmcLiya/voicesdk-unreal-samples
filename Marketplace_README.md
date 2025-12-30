@@ -4,7 +4,7 @@ This is a demo game for Voice SDK. It demonstrates how to add Voice Commands and
 
 ## Supported Engine Versions:
 
-UE4.27, UE5.0 and UE5.1.
+UE4.27, UE5.0, UE5.1, and UE5.6.
 
 ## Supported Platforms:
 
